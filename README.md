@@ -6,4 +6,4 @@ Site with simple JS functionality.
 
 ![Alt text](/Video/1.png?raw=true "My program")
 
-[![Demo Video](/Video/1.png)](/Video/Bulgaria - Google Chrome 2021-02-23 13-51-21.mp4)
+[![Demo Video](/Video/1.png)](https://github.com/Darya-Slugina/Bulgaria.com/tree/main/Video/Bulgaria - Google Chrome 2021-02-23 13-51-21.mp4)
